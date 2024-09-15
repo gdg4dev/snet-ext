@@ -1,0 +1,8 @@
+/* Style for the badge/flair */
+.badge {
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 3px;
+  margin-right: 10px;
+  color: white;
+}
